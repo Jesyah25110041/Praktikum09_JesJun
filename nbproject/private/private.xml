@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/InventoriLab_Jesyah/src/Barang.java</file>
+            <file>file:/D:/InventoriLab_Jesyah/src/model/Kategori.java</file>
+            <file>file:/D:/InventoriLab_Jesyah/src/akun/BuatAkun.java</file>
+            <file>file:/D:/InventoriLab_Jesyah/src/koneksi/KoneksiDB.java</file>
+            <file>file:/D:/InventoriLab_Jesyah/src/dao/KategoriDAO.java</file>
+            <file>file:/D:/InventoriLab_Jesyah/src/koneksi/UjiKoneksi.java</file>
+            <file>file:/D:/InventoriLab_Jesyah/src/akun/AkunDAO.java</file>
+            <file>file:/D:/InventoriLab_Jesyah/src/akun/Sesi.java</file>
+            <file>file:/D:/InventoriLab_Jesyah/src/dao/BarangDAO.java</file>
+            <file>file:/D:/InventoriLab_Jesyah/src/tampilan/FormBarang.java</file>
+        </group>
+    </open-files>
+</project-private>
